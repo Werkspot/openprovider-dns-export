@@ -1,0 +1,13 @@
+{
+    "name": "werkspot/openprovider-dns-export",
+    "require": {
+        "roelvanduijnhoven/openprovider-php": "^0.4.0",
+        "vlucas/phpdotenv": "^2.4"
+    },
+    "authors": [
+        {
+            "name": "Marijn Koesen",
+            "email": "github@koesen.nl"
+        }
+    ]
+}
